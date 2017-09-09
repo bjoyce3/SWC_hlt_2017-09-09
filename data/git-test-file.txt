@@ -1,0 +1,10 @@
+We're going to push to github. 
+
+Blake's process for GitHub success:
+1) create repo on github
+2) pull down repo from github using `git clone httpsURL`
+3) do some science
+4) git add files and folders
+5) git status to look at the 'stage'
+6) git commit -m "enter your commit message"
+7) git push
